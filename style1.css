@@ -1,0 +1,55 @@
+*{
+    background-color: blanchedalmond;
+}
+#message{
+    text-align: center;
+     color: rgb(10, 10, 151);
+     margin-bottom: 50px;
+}
+h2{
+    color:rgb(192, 214, 22);
+    background-color: black;
+}
+
+#wrapper div{
+    display:flex;
+    justify-content:center;
+    background-color: black;
+}
+    
+#wrapper{
+    height:500px;
+    width:400px;
+    margin: 0px auto;
+  
+}
+
+
+
+#input{
+    font-size:20px;
+    margin-top:12px;
+    padding:10px;
+    border:2px solid black;
+    text-align: center;
+}
+
+button{
+    margin-top:20px;
+    background-color:aquamarine;
+    font-size:20px;
+    font-weight:bold;
+    padding:15px;
+    border-radius: 10px;
+    color:brown;
+}
+#result{
+    padding:10px;
+    font-weight: bold;
+    font-size:18px;
+    color:azure;
+    padding:20px;
+}
+
+
+
